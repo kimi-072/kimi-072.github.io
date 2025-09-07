@@ -8,5 +8,3 @@ import Project from "@/views/Project.vue"
 </script>
 
 <Project />
-
-> 还没想好写点什么
