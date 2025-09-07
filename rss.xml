@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>九天之上</title>
+        <link>https://blog2.811520.xyz</link>
+        <description>基于 vitepress-theme-curve 搭建的 github pages 站点</description>
+        <lastBuildDate>Sun, 07 Sep 2025 11:06:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>雨天狂奔</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present 雨天狂奔</copyright>
+    </channel>
+</rss>
